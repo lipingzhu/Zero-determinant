@@ -1,0 +1,9 @@
+*pyc
+*.DS_Store
+site/
+_build/
+*.log
+dist/
+MANIFEST
+Axelrod.egg-info
+.hypothesis/eval_source/
